@@ -8,4 +8,4 @@ Technical writing is actually my fourth career, but I love this field, so I don'
 
 Thanks for reading!
 
-- Anthony
+Anthony
