@@ -11,7 +11,7 @@ In terms of hard skills, I work with the following:
 * Several programming languages, including Kotlin, JavaScript, and Python
 * Several other tools of note, including Acrolinx, Git, GitHub, Google Workspace, the Google Developer Documentation Style Guide, and Frame.io
 
-In terms of soft skills, I'm the following:
+In terms of soft skills, my colleagues and coworkers describe me as the following:
 * Smart
 * Adaptable
 * A fast learner
