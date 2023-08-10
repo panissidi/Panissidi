@@ -21,7 +21,9 @@ In terms of soft skills, my colleagues and coworkers describe me as the followin
 * Always willing to act
 * Funny (Some might say funny looking, but the point still stands—I'm funny.)
 
-Technical writing is actually my fourth career, but I love this field, so I don't intend to reinvent myself again. Now that I finally found the career for me, I figured that it was time to create a portfolio of my publicly available work, so I created this GitHub profile. To see samples of writing, editing, and coding work, see the respective repositories. To learn more about me or get in touch, see my [LinkedIn profile](https://www.linkedin.com/in/panissidi/).
+To see samples of my writing, editing, and coding work, see the respective repositories. 
+
+To learn more about me or get in touch, see my [LinkedIn profile](https://www.linkedin.com/in/panissidi/).
 
 Thanks for reading!
 
