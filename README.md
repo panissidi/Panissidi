@@ -1,6 +1,6 @@
 # About me
 
-Hi, I'm Anthony, a seasoned technical writer and editor of globally distributed developer documentation. 
+Hi, I'm Anthony, a seasoned technical writer/editor of globally distributed developer documentation. 
 
 Currently, I'm a remote and contracted technical writer/editor at Google. In this role, I educate developers of all skill levels around the world about Google's developer technology through the technical writing and editing of software documentation for various product areas (PAs) across the company, including AI/ML, Android, Google Cloud, and Web. 
 
