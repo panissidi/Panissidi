@@ -2,11 +2,11 @@
 
 Hi!
 
-I'm Anthony, a seasoned technical writer/editor of globally distributed developer documentation. 
+I'm Anthony, a seasoned writer/editor with more than 10 years of overall experience, including 4 years in technical writing/editing of software documentation at Google.
 
 Currently, I'm a remote and contracted technical writer/editor at Google. In this role, I educate developers of all skill levels around the world about Google's developer technology through the technical writing and editing of software documentation for various product areas (PAs) across the company, including AI/ML, Android, Google Cloud, and Web. 
 
-More specifically, I write and edit conceptual video scripts, task-based coding tutorials, and other forms of technical documentation that involve various markup and programming languages by collaborating with engineering team members from different PAs. I also provide quality assurance by testing the documentation to ensure that it's accurate and all code works as expected. 
+More specifically, I write and edit conceptual video scripts, task-based coding tutorials, and other forms of technical documentation that involve various markup and programming languages by collaborating with designers, engineers, and product managers from different PAs. I also provide quality assurance by testing the documentation to ensure that all code, commands, and UIs work as expected. 
 
 In terms of hard skills, I work with the following:
 * Several markup languages, including HTML, Markdown, and XML
