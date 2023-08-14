@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm Anthony, a seasoned writer/editor with more than 10 years of overall experience, including 4 years in technical writing/editing of software documentation at Google.
+I'm Anthony, a seasoned writer/editor with more than 10 years of overall experience, including 4 years in technical writing/technical editing of software documentation at Google.
 
 Currently, I'm a remote and contracted technical writer/technical editor at Google. In this role, I educate more than 5 million developers of all skill levels around the world about Google's developer technology through the technical writing and technical editing of software documentation for various product areas (PAs) across the company, including Android, Google Cloud, Google Pay, TensorFlow, and Web. 
 
