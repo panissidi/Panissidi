@@ -22,6 +22,8 @@ In terms of soft skills, my colleagues and coworkers describe me as the followin
 * Comfortable with ambiguity
 * Always willing to act
 * Funny (Some might say funny looking, but the point still stands—I'm funny.)
+* Independent
+* "Never makes a typo"
 
 To see samples of my writing, editing, and coding work, see the respective repositories. 
 
