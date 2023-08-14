@@ -4,7 +4,7 @@ Hi!
 
 I'm Anthony, a seasoned writer/editor with more than 10 years of overall experience, including 4 years in technical writing/technical editing of software documentation at Google.
 
-Currently, I'm a remote and contracted technical writer/technical editor at Google. In this role, I educate more than 5 million developers of all skill levels around the world about Google's developer technology through the technical writing and technical editing of software documentation for various product areas (PAs) across the company, including Android, Google Cloud, Google Pay, TensorFlow, and Web. 
+Currently, I'm a remote and contracted technical writer/technical editor at Google. In this role, I educate more than 5 million developers of all skill levels around the world about Google's developer technology by leading the technical writing and technical editing of software documentation for various product areas (PAs) across the company, including Android, Google Chrome, Google Cloud, Google Pay, and TensorFlow. 
 
 More specifically, I write and edit conceptual video scripts and task-based coding tutorials that involve various markup and programming languages by collaborating with designers, engineers, and product managers from different PAs. I also provide quality assurance by testing the documentation to ensure that all commands, code, and UIs work as expected.
 
@@ -16,9 +16,10 @@ In terms of hard skills, I work with the following:
 * Several other tools of note, including Acrolinx, Git, GitHub, Google Workspace, the Google Developer Documentation Style Guide, and Frame.io
 
 In terms of soft skills, my colleagues and coworkers describe me as the following:
+* Fast
 * Smart
 * Adaptable
-* A fast learner
+* A quick learner
 * A problem solver
 * A leader when necessary as an individual contributor
 * Comfortable with ambiguity
