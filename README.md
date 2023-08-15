@@ -2,13 +2,13 @@
 
 Hi!
 
-I'm Anthony, a seasoned writer/editor with more than 10 years of overall experience, including 4 years in technical writing/technical editing of software documentation at Google.
+I'm Anthony, a seasoned writer/editor with more than 10 years of overall experience, including 4 years in the technical writing/technical editing of software documentation.
 
-Currently, I'm a remote and contracted technical writer/technical editor at Google. In this role, I educate more than 5 million developers of all skill levels around the world about Google's developer technology by leading the technical writing and technical editing of software documentation for various product areas (PAs) across the company, including Android, Google Chrome, Google Cloud, Google Pay, and TensorFlow. 
+Currently, I'm a remote and contracted technical writer/technical editor at Google. In this role, I educate more than 5 million developers of all skill levels around the world about Google's developer technology through the technical writing and technical editing of software documentation for various product areas (PAs) across the company, including Android, Google Chrome, Google Cloud, Google Pay, and TensorFlow. 
 
 More specifically, I write and edit conceptual video scripts and task-based coding tutorials that involve various markup and programming languages by collaborating with designers, engineers, and product managers from different PAs. I also provide quality assurance by testing the documentation to ensure that all commands, code, and UIs work as expected.
 
-In my spare time, I participate in online trainings to sharpen my existing skills and add new skills. For example, I completed several courses that taught me how to document RESTful APIs.
+In addition, I help my team grow by partaking in strategy meetings; documenting our internal processes, and interviewing, hiring, onboarding, and mentoring new team members. In my spare time, I participate in online trainings that sharpen my existing skills and add new skills. For example, I completed several courses that taught me how to document RESTful APIs.
 
 In terms of hard skills, I work with the following:
 * Several markup languages, including HTML, Markdown, and XML
