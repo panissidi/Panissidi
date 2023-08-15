@@ -8,7 +8,7 @@ Currently, I'm a remote and contracted technical writer/technical editor at Goog
 
 More specifically, I write and edit conceptual video scripts and task-based coding tutorials that involve various markup and programming languages by collaborating with designers, engineers, and product managers from different PAs. I also provide quality assurance by testing the documentation to ensure that all commands, code, and UIs work as expected.
 
-In addition, I help my team grow by partaking in strategy meetings; documenting our internal processes, and interviewing, hiring, onboarding, and mentoring new team members. In my spare time, I participate in online trainings that sharpen my existing skills and add new skills. For example, I completed several courses that taught me how to document RESTful APIs.
+In addition, I help my team grow by partaking in strategy meetings; documenting our internal processes; and interviewing, hiring, onboarding, and mentoring team members. In my spare time, I participate in online trainings that sharpen my skills. For example, I completed several courses that taught me how to document RESTful APIs.
 
 In terms of hard skills, I work with the following:
 * Several markup languages, including HTML, Markdown, and XML
