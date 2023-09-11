@@ -11,22 +11,22 @@ More specifically, I write and edit conceptual video scripts and task-based codi
 In addition, I help my team grow by partaking in strategy meetings; documenting our internal processes; and interviewing, hiring, onboarding, and mentoring new technical writers. In my spare time, I sharpen my skills by completing self-paced online trainings, such as one that taught me how to document REST APIs.
 
 In terms of hard skills, I work with the following:
-● Several markup languages, including HTML, Markdown, and XML
-● Several programming languages, including Kotlin, JavaScript, and Python
-● Several other tools of note, including Acrolinx, Git, GitHub, Google Workspace, the Google Developer Documentation Style Guide, and Frame.io
+* Several markup languages, including HTML, Markdown, and XML
+* Several programming languages, including Kotlin, JavaScript, and Python
+* Several other tools of note, including Acrolinx, Git, GitHub, Google Workspace, the Google Developer Documentation Style Guide, and Frame.io
 
 In terms of soft skills, my colleagues and coworkers describe me as the following: 
-● Fast
-● Smart
-● Adaptable
-● A quick learner
-● A problem solver
-● A leader when necessary as an individual contributor
-● Comfortable with ambiguity
-● Always willing to act
-● Funny (Some might say funny looking, but the point still stands—I'm funny.)
-● Independent
-● "Never makes a typo."
+* Fast
+* Smart
+* Adaptable
+* A quick learner
+* A problem solver
+* A leader when necessary as an individual contributor
+* Comfortable with ambiguity
+* Always willing to act
+* Funny (Some might say funny looking, but the point still stands—I'm funny.)
+* Independent
+* "Never makes a typo."
 
 To see samples of my writing, editing, and coding work, see the respective repositories. 
 
