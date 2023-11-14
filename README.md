@@ -23,7 +23,7 @@ In terms of soft skills, my colleagues and coworkers describe me as the followin
 * A quick learner
 * A problem solver
 * Always willing to act
-* * "Never makes a typo."
+* "Never makes a typo."
 * Comfortable with ambiguity
 * A leader when necessary as an individual contributor
 * Funny (Some might say funny looking, but the point still stands—I'm funny.)
