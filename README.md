@@ -27,7 +27,7 @@ In terms of soft skills, my colleagues and coworkers describe me as the followin
 * Comfortable with ambiguity
 * A leader when necessary as an individual contributor
 
-To see samples of my writing, editing, and coding work, see the respective repositories. 
+To see samples of the work that I've done for each employer, see the respective repositories. 
 
 To learn more about me or get in touch, see my [LinkedIn profile](https://www.linkedin.com/in/panissidi/).
 
