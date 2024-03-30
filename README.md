@@ -4,7 +4,7 @@ Hi!
 
 I'm Anthony, a seasoned writer and editor with more than 10 years of experience, including 4 years of technical writing and technical editing.
 
-Today, I'm a contractor at Google, where I educate more than 5 million developers of all skill levels around the world about Google's developer technology by writing and editing software documentation for various product areas (PAs) across the company, including AI/ML, cloud, mobile, payments, and web.
+Today, I'm a contractor at Google, where I educate more than 5 million developers of all skill levels around the world about Google's developer technology by writing and editing software documentation for various product areas (PAs) across the company, including Android, Google Chrome, Google Maps Platform, and Google Pay.
 
 More specifically, I write and edit conceptual video scripts and task-based tutorials that involve various markup and programming languages by collaborating with designers, engineers, and product managers from different PAs. I also provide quality assurance by testing the documentation to ensure that it works as expected.
 
