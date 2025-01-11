@@ -15,21 +15,21 @@ Previously, I broke into technical writing as a contractor at Google, where I wr
 Before I found my true calling as a technical writer, I dabbled in content writing, social-media marketing, and reporting. These areas might not sound relevant to technical writing, but they helped me gain many skills that I still find relevant today, such as how to formulate questions about how things work, how to interview sources to get desired information, and how to write quickly and accurately under tight deadlines.
 
 In terms of hard skills, I'm knowledgeable of the following:
-● Several markup languages, including Markdown
-● Several programming languages, including JavaScript and Python
-● Several other tools of note, including Acrolinx, Adobe Experience Manager, Android Studio, Bitbucket, Confluence, git, GitHub, Google Workspace, Frame.io, IntelliJ IDEA, Jira, macOS, Microsoft Office, style guides, Visual Studio Code, and Windows
+* Several markup languages, including Markdown
+* Several programming languages, including JavaScript and Python
+* Several other tools of note, including Acrolinx, Adobe Experience Manager, Android Studio, Bitbucket, Confluence, git, GitHub, Google Workspace, Frame.io, IntelliJ IDEA, Jira, macOS, Microsoft Office, style guides, Visual Studio Code, and Windows
 
 In terms of soft skills, my colleagues and coworkers describe me as the following:
-● Fast
-● Smart
-● Adaptable
-● Self starter
-● Independent
-● A quick learner
-● A problem solver
-● Always willing to act
-● Comfortable with ambiguity
-● A leader when necessary as an individual contributor
+* Fast
+* Smart
+* Adaptable
+* Self starter
+* Independent
+* A quick learner
+* A problem solver
+* Always willing to act
+* Comfortable with ambiguity
+* A leader when necessary as an individual contributor
 
 To see samples of the work that I've done for each employer, see the respective repositories. 
 
