@@ -10,7 +10,7 @@ Internally, I document the tools and processes that empower our developers to bu
 
 Externally, I document our payments technology for developers who use it to process payments. For example, I documented version 2 of our Global Payments API, a REST API that includes several payment rails, such as ACH. For each payment rail, I wrote a conceptual overview, how-to guides, and reference material.
 
-Previously, I broke into technical writing as a contractor at Google, where I wrote and edited documentation that educated a global audience of developers about how to use Google's developer technology. I worked across various developer product areas as needed, including Android, Google Chrome, Google Maps Platform, and Google Pay.
+Previously, I broke into technical writing as a contractor at Google, where I wrote and edited documentation that educated a global audience of developers about how to use Google's developer technology. I worked across various developer product areas as needed, including Android, Google Chrome, Google Maps Platform, Google Pay, and Google I/O.
 
 Before I found my true calling as a technical writer, I dabbled in content writing, social-media marketing, and reporting. These areas might not sound relevant to technical writing, but they helped me gain many skills that I still find relevant today, such as how to formulate questions about how things work, how to interview sources to get desired information, and how to write quickly and accurately under tight deadlines.
 
