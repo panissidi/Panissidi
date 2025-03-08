@@ -6,7 +6,7 @@ I'm Anthony, a seasoned technical writer of developer documentation with more th
 
 Currently, I'm a senior technical writer in the Payments Technology division of the Commercial & Investment Bank at J.P. Morgan, where I'm responsible for a mix of internal and external documentation. 
 
-Internally, I document the tools and processes that empower our developers to build our payments technology. For example, I documented the tools and processes that dictate how our developers must build our payment-processing APIs.
+Internally, I document the tools and processes that empower our developers to build our payments technology. For example, I documented the tools and processes that dictate how our developers must build our payment APIs.
 
 Externally, I document our payments technology for developers who use it to process payments. For example, I documented version 2 of our Global Payments API, a REST API that includes several payment rails, such as ACH. For each payment rail, I wrote a conceptual overview, how-to guides, and reference material.
 
